@@ -38,7 +38,7 @@
 
 ### Решение
 
-1. ![Скриншот авторизации на web-портале zabbix](https://github.com/mhfhfmn/zabbix1/main/img/zabbix_auth.jpg)
+1. ![Скриншот авторизации на web-портале zabbix](https://github.com/mhfhfmn/zabbix1/blob/main/img/zabbix_auth.jpg)
 2. Команды для установки Zabbix server(установка проводилась с web-сервером nginx, при использовании nginx портал управления zabbix server доступен по прямому URL из коробки(без /zabbix), что является более удобным способом.)
 
 ```
